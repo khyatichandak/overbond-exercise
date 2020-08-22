@@ -1,0 +1,22 @@
+{
+  "name": "overbond-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "npm build",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "mocha": "^8.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  },
+  "keywords": [],
+  "description": ""
+}
